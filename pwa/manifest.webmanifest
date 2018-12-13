@@ -1,0 +1,15 @@
+{
+  "background_color": "green",
+  "description": "A really simple Progressive web app",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/home-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Simple PWA",
+  "short_name": "PWA",
+  "start_url": "index.html"
+}
