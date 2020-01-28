@@ -7,17 +7,17 @@ This example contains a very simple Progressive Web App (PWA) that demonstrates 
 ## Running the Example
 * Place the files on a web server.
 * View the site using chrome. 
-* Use the developer tools and the application tab to check the caching
+* Use the developer tools and the Application tab to check the resources have been cached
 * Switch off the network connection in Chrome and refresh the page. 
-    * Check the network tab to make sure resources are being served from cache.
+    * Check the Network tab to make sure resources are being served from cache.
 * Click the 'Add to homescreen' button. Accept the prompt and check this works i.e. an icon has been added to the desktop and clicking this opens the app. 
 
 ## On your own
-* Try adding another HTML page to the site. Add a link to this new page. 
+* Try adding another HTML page to the site. Add a link to this new page. Make sure users can navigate between the two pages of the site. 
 * Modify *sw.js* so that this new page will be cached.
 * Modify the manifest file e.g. change the name of the app, change the background colour. 
 * Uninstall the app and use the Application tab in Chrome to delete any caching for the site
-* Open the app again and check that you changes have taken effect. 
+* Open the app again and check that your changes have taken effect. 
 
 ## Finding out more
 
