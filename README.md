@@ -18,6 +18,7 @@ This example contains a very simple Progressive Web App (PWA) that demonstrates 
 * Modify the manifest file e.g. change the name of the app, change the background colour. 
 * Uninstall the app and use the Application tab in Chrome to delete any caching for the site
 * Open the app again and check that your changes have taken effect. 
+* If you have an account on the selene web server, upload the app to selene and view the app using a mobile device. See how the app works on a mobile device.
 
 ## Finding out more
 
