@@ -6,9 +6,9 @@ This example contains a very simple Progressive Web App (PWA) that demonstrates 
 
 ## Running the Example
 * Place the files on a web server.
-* View the site using chrome. 
+* View the site using Chrome or Edge. 
 * Use the developer tools and the Application tab to check the resources have been cached
-* Switch off the network connection in Chrome and refresh the page. 
+* Switch off the network connection in the browser and refresh the page. 
     * Check the Network tab to make sure resources are being served from cache.
 * Click the 'Add to homescreen' button. Accept the prompt and check this works i.e. an icon has been added to the desktop and clicking this opens the app. 
 
